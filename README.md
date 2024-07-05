@@ -43,7 +43,7 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
 5. **Update Specific Employee Info**
    - **Endpoint**: `/employees/{id}`
    - **Method**: PATCH
-   - **Description**: Deletes a specific employee using their ID.
+   - **Description**:  Updates the data of an existing employee using their ID partially.
    - **Screenshot**:
 
    <img width="1013" alt="image" src="https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/0b249325-9bc2-43cf-8950-98bb394e9d15">
@@ -52,7 +52,7 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
 6. **Delete Employee**
    - **Endpoint**: `/employees/{id}`
    - **Method**: DELETE
-   - **Description**: Deletes all employees from the system.
+   - **Description**: Deletes a specific employee using their ID.
    - **Screenshot**:
    - 
    <img width="1038" alt="image" src="https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/c4e7d798-c89f-42d1-bbf1-983454174b6f">
