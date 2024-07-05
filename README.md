@@ -45,8 +45,9 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
    - **Method**: PATCH
    - **Description**:  Updates the data of an existing employee using their ID partially.
    - **Screenshot**:
+     
+   <img width="1050" alt="image" src="https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/505aaa24-4f2b-46d6-982c-0732656a4cb3">
 
-   <img width="1013" alt="image" src="https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/0b249325-9bc2-43cf-8950-98bb394e9d15">
 
 
 6. **Delete Employee**
