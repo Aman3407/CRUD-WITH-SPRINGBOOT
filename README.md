@@ -4,7 +4,7 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
 ## Features
 
 1. **Add Employee**
-   - **Endpoint**: `/addEmployee`
+   - **Endpoint**: `/employees`
    - **Method**: POST
    - **Description**: Adds a new employee to the system.
    - **Screenshot**:
@@ -13,7 +13,7 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
 
 
 2. **Get Specific Employee**
-   - **Endpoint**: `/getEmployeeById/{id}`
+   - **Endpoint**: `/employees/{id}`
    - **Method**: GET
    - **Description**: Retrieves the details of a specific employee using their ID.
    - **Screenshot**:
@@ -22,7 +22,7 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
 
 
 3. **Get All Employees**
-   - **Endpoint**: `/getAllEmployees`
+   - **Endpoint**: `/employees`
    - **Method**: GET
    - **Description**: Retrieves the details of all employees.
    - **Screenshot**:
@@ -30,7 +30,7 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
    <img width="1006" alt="image" src="https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/ae16105b-a576-48f2-8d4d-0162e746bf47">
 
 4. **Update Employee's Data**
-   - **Endpoint**: `/updateEmployee/{id}`
+   - **Endpoint**: `/employees/{id}`
    - **Method**: PUT
    - **Description**: Updates the data of an existing employee using their ID.
    - **Screenshot**:
@@ -41,8 +41,8 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
 
 
 5. **Update Specific Employee Info**
-   - **Endpoint**: `/deleteEmployeeById/{id}`
-   - **Method**: DELETE
+   - **Endpoint**: `/employees/{id}`
+   - **Method**: PATCH
    - **Description**: Deletes a specific employee using their ID.
    - **Screenshot**:
 
@@ -50,7 +50,7 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
 
 
 6. **Delete Employee**
-   - **Endpoint**: `/deleteAllEmployees`
+   - **Endpoint**: `/employees/{id}`
    - **Method**: DELETE
    - **Description**: Deletes all employees from the system.
    - **Screenshot**:
