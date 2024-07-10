@@ -65,7 +65,9 @@ public class EmployeeService {
             employeeEntity.setId(id);
         if(employeeDTO.getName() != null)
             employeeEntity.setName(employeeDTO.getName());
-        if(employeeDTO.getName() != null)
+        // if(employeeDTO.getPassword() != null)
+        //         employeeEntity.setPassword(employeeDTO.getPassword());
+        if(employeeDTO.getDateOfJoining() != null)
             employeeEntity.setDateOfJoining(employeeDTO.getDateOfJoining());
         if(employeeDTO.getIsActive() != null)
             employeeEntity.setIsActive(employeeDTO.getIsActive());

@@ -15,5 +15,4 @@ public class EmployeeDTO {
     private String name;
     private LocalDate dateOfJoining;
     private Boolean isActive;
-    
 }
