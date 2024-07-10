@@ -67,3 +67,62 @@ This is a CRUD application built on the Spring Boot framework. The purpose of th
 - **name**: The name of the employee.
 - **dateOfJoining**: The date the employee joined the company.
 - **isActive**: The active status of the employee.
+  
+# Java Security Implementation
+
+### Register User Along with Role
+![Register User](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/f1b56cb0-e127-4d80-b68c-733e04b55ce4)
+
+### Authenticate User and Generate Token
+![Authenticate User](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/fd941686-4b23-4f0a-bf5a-f6f95909cf4d)
+
+### Verify JWT Signature and Token
+![Verify JWT](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/455c4475-b988-4064-b5fe-b23489bfe844)
+
+### Handling Incorrect Login Credentials
+- Redirecting to login page if credentials are wrong
+![Incorrect Credentials](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/4a94e794-4015-4e23-a159-fe7d09afd007)
+
+
+## Admin Actions
+
+### Registering Admin
+![Registering Admin](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/8aca3af2-c98e-48c5-ad4f-2480dc0d47d6)
+
+### Token Generated
+![Token Generated](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/ec8addf2-1cb1-4855-a8dc-73b08cdae2aa)
+
+### Accessible Pages
+- Default Home Page
+  ![Default Home Page](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/987e74a1-3f38-4baf-95e3-452c731719c4)
+
+- User Home Page
+  ![User Home Page](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/b42a2e3f-9771-4f66-961b-2c710881c05b)
+
+- Admin Home Page
+  ![Admin Home Page](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/dad7f7a7-8dc0-4123-af77-f46c258c7b51)
+
+---
+
+## User Actions
+
+### Registering User
+![Registering User](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/81a1afee-d39e-4a01-b04b-a221a3781f49)
+
+### Token Generated
+![Token Generated](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/1cf0b35e-ce9a-44d0-9e02-47334eeff0fa)
+
+### Accessible Pages
+- Default Home Page
+  ![Default Home Page](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/85ba337c-258e-44ca-993e-796f7cf18bcc)
+
+- User Home Page
+  ![User Home Page](https://github.com/Aman3407/CRUD-WITH-SPRINGBOOT/assets/174441737/2121a9ec-962a-4785-afc3-8fa5ec6e9bc7)
+
+
+
+
+
+
+
+
